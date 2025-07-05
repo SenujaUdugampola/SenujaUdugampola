@@ -82,6 +82,13 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/senujaudugampola/senujaudugampola/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ### 🕒 Time Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senujaudugampola&theme=radical&utcOffset=5.5" />
