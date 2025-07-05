@@ -2,7 +2,7 @@ name: Generate Snake Contribution Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+    - cron: "53 7 * * *"  # Every day at midnight UTC
   workflow_dispatch:     # Allows manual trigger from the Actions tab
 
 jobs:
