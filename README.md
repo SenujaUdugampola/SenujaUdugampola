@@ -73,12 +73,13 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40"/>
 </p>
 
+---
+
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SenujaUdugampola/SenujaUdugampola/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
@@ -87,5 +88,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=senujaudugampola&theme=radical&utcOffset=5.5" />
 </p>
 
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenujaUdugampola&theme=react-dark&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 📦 Most Frequently Used Languages (by Commit Count)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=senujaudugampola&theme=radical" />
+</p>
+
+---
+
+### ⏳ Coding Activity Insights
+
+> A glimpse into my commit patterns, languages used, and contribution timeline.
 
 
